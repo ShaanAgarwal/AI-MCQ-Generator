@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ai-mcq-generator.git
+   git clone https://github.com/ShaanAgarwal/AI-MCQ-Generator
    cd ai-mcq-generator
    ```
 
@@ -50,7 +50,7 @@ To run the project locally, follow these steps:
 
 4. **Set your Google API Key**:
 
-   Replace `<paste_google_api_key>` in the code with your actual Google Gemini 1.5 Pro API key in the environment variables or directly in the code. You can obtain the API key from [Google Cloud Console](https://console.cloud.google.com/).
+   Replace `<paste_google_api_key>` in the code with your actual Google Gemini 1.5 Pro API key in the environment
 
 5. **Run the application**:
 
@@ -103,15 +103,3 @@ This project integrates Google Gemini 1.5 Pro (PaLM API) for generating multiple
   ```
 
   You can download this output as a `.txt` or `.pdf` file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, feel free to reach out via [email@example.com](mailto:email@example.com).
-
----
-
-This `README.md` provides a complete overview of your project, helping users understand its purpose, setup, and usage easily. Let me know if you'd like to customize it further!
